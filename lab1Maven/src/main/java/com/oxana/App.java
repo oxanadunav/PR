@@ -3,7 +3,7 @@ package com.oxana;
 import org.apache.commons.lang.StringUtils;
 
 /**
- * Levenstein distance
+ * Levenstein distance - - the number of changes needed to change one String into another
  *
  */
 public class App 
